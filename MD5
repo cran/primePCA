@@ -1,0 +1,9 @@
+8026b2901e50672719d7fdc3f1dd0e3b *DESCRIPTION
+689100a11a7cfe29fb4c4e2adaf0c3f4 *NAMESPACE
+9559f424e6755809f714e4f88cb514dc *R/code.R
+000021f9425a3469ccb9915705a1a4d0 *build/partial.rdb
+d726487abeb27ae0cf16ac081db22352 *man/col_scale.Rd
+708ddc0f198d608d935b99b016f0459e *man/inverse_prob_method.Rd
+333863d36fd3fd9630d7dc56209ddd8a *man/primePCA-package.Rd
+d9a36f55bf15e08d050eb643fbb07226 *man/primePCA.Rd
+11dd1a27c188facfca82f3fa4ebd69ee *man/sin_theta_distance.Rd
