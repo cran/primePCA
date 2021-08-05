@@ -14,7 +14,7 @@ NULL
 sin_theta_distance <- function(V1, V2){
     K <- min(dim(V1)[2], dim(V2)[2])
     sigmas <- svd(t(V1) %*% V2)$d
-    return(sqrt(K - sum(sigmas ^ 2)))
+    return(sqrt(K - min(sum(sigmas ^ 2), K)))
 }
 
 sample_filter_op <- function(thresh, V, Omega, prob=1){

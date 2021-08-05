@@ -1,6 +1,6 @@
-df64c90b7be3768c8641a7867cd76a68 *DESCRIPTION
+6eb5cc9781e0945775809da9ed7c5a05 *DESCRIPTION
 689100a11a7cfe29fb4c4e2adaf0c3f4 *NAMESPACE
-eb66b0fd5c8f9226f1218273a0c085c4 *R/code_full_new.R
+926644d9932c97f7ffff6ab903e6f28a *R/code_full_new.R
 7c5bdfd5efda9f19b82c704aaed9e850 *man/col_scale.Rd
 3dfb3e5e92f2448b457e50dbc5aa20a6 *man/inverse_prob_method.Rd
 ddbc90b296a4809179bbafe3031546aa *man/primePCA.Rd
